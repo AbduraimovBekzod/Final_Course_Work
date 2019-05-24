@@ -1,0 +1,10 @@
+8
+Matematicheskiy analiz
+Abduraimiv 1000 4
+Akhmedov 1001 5
+Meyer 1002 5
+Soliev 1003 6
+Juraev 1004 6
+Adilova 1005 5
+Abdurakhmanov 1006 4
+Makhnutova 1002 5
